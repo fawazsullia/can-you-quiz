@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # Replace with your actual bot token
-TOKEN = '7417715664:AAGraoJ1mPDkRyHLUEf9EePHOpO1DWqspyg'
+TOKEN = ''
 
 # In-memory storage
 categories = {
